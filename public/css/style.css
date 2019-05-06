@@ -1,0 +1,6 @@
+.poster-img {
+    width: 200px;
+    border: 10px solid white;
+    box-shadow: 0 0 10px #333;
+    margin: 10px;
+}
